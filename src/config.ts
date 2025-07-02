@@ -1,10 +1,10 @@
 export const SITE = {
-  website: "https://astro-paper.pages.dev/", // replace this with your deployed domain
-  author: "Sat Naing",
-  profile: "https://satnaing.dev/",
-  desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
-  title: "AstroPaper",
-  ogImage: "astropaper-og.jpg",
+  website: "https://ai-blog-thangvo27create.vercel.app/", // replace this with your deployed domain
+  author: "Theowyn Vo",
+  profile: "https://www.instagram.com/wynsmz/",
+  desc: "A strange little place on the web about smart tech and lazy genius.",
+  title: "VoidNest",
+  ogImage: "https://goalantis.com/wp-content/uploads/2025/04/Best-AI-Tools-for-Students-Boost-Study-Efficiency-and-Time-Management.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
