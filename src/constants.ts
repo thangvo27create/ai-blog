@@ -1,7 +1,11 @@
 import type { Props } from "astro";
-import IconMail from "@/assets/icons/IconMail.svg";
-import { SITE } from "@/config";
 
+// 🧩 Import SVG icons từ thư mục: src/assets/icons/
+import IconMail from "@/assets/icons/IconMail.svg";
+import IconGithub from "@/assets/icons/IconGithub.svg";
+import IconYoutube from "@/assets/icons/IconYoutube.svg";
+
+// 🧭 Cấu trúc từng mạng xã hội (tên, link, icon)
 interface Social {
   name: string;
   href: string;
@@ -9,12 +13,18 @@ interface Social {
   icon: (_props: Props) => Element;
 }
 
+// 📌 Danh sách social bạn dùng
 export const SOCIALS: Social[] = [
-
   {
     name: "Mail",
     href: "mailto:quocthangvontpt@gmail.com",
-    linkTitle: `Share this post via email`,
+    linkTitle: "Send me an email",
     icon: IconMail,
+  },
+  {
+    name: "GitHub",
+    href: "https://github.com/thangvo27create",
+    linkTitle: "Follow me on GitHub",
+    icon: IconGithub,
   },
 ] as const;
