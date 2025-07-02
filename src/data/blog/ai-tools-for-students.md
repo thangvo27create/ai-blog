@@ -2,7 +2,7 @@
 title: "Top 5 AI Tools for Students (That Actually Help)"
 description: "Discover the best AI tools to boost your study, writing, and productivity."
 pubDatetime: 2025-07-01
-image: "/assets/images/ai-tools.webp"
+image: "https://goalantis.com/wp-content/uploads/2025/04/Best-AI-Tools-for-Students-Boost-Study-Efficiency-and-Time-Management.jpg"
 tags: ["ai", "students", "productivity"]
 ---
 
