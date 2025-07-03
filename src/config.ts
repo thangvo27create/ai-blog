@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://ai-blog-thangvo27create.vercel.app/", // replace this with your deployed domain
+  website: "https://voidnest.vercel.app/", // replace this with your deployed domain
   author: "Theowyn Vo",
   profile: "https://www.instagram.com/wynsmz/",
   desc: "A strange little place on the web about smart tech and lazy genius.",
