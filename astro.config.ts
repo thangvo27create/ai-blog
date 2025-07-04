@@ -1,6 +1,14 @@
 import { defineConfig, envField } from "astro/config";
 import tailwindcss from "@tailwindcss/vite";
 import sitemap from "@astrojs/sitemap";
+export default defineConfig({
+  site: "https://voidnest.vercel.app", // chắc chắn đúng
+  integrations: [
+    sitemap({
+      sitemap: "/sitemap.xml", // 👈 tên sitemap mới
+    }),
+  ],
+});
 import remarkToc from "remark-toc";
 import remarkCollapse from "remark-collapse";
 import {
