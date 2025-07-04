@@ -57,11 +57,3 @@ export default defineConfig({
     preserveScriptOrder: true,
   },
 });
-export default defineConfig({
-  site: "https://voidnest.vercel.app", // chắc chắn đúng
-  integrations: [
-    sitemap({
-      sitemap: "/sitemap.xml", // 👈 tên sitemap mới
-    }),
-  ],
-});
