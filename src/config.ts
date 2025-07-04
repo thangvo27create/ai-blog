@@ -1,5 +1,5 @@
 export const SITE = {
-  website: "https://voidnest.vercel.app/", // replace this with your deployed domain
+  website: "https://voidnest.vercel.app", // replace this with your deployed domain
   author: "Theowyn Vo",
   profile: "https://www.instagram.com/wynsmz/",
   desc: "A strange little place on the web about smart tech and lazy genius.",
@@ -19,5 +19,5 @@ export const SITE = {
   dynamicOgImage: true,
   dir: "ltr", // "rtl" | "auto"
   lang: "en", // html lang code. Set this empty and default will be "en"
-  timezone: "Asia/Bangkok", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+  timezone: "US/Central", // Default global timezone (IANA format) https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 } as const;
