@@ -1,150 +1,59 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<url>
-<loc>https://voidnest.vercel.app/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/about/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/archives/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/2/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/3/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-control/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-forcoding/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-learning-tools/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-overthink/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-planning/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-therapy/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/ai-tools-for-students/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/daily-routine/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/not-everything-needs-ai/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/posts/talktoai/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/privacy/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/search/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/ai/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/ai/2/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/ai/3/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/balance/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/beginners/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/chatgpt/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/coding/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/companionship/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/creativity/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/daily-planning/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/daily-routine/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/education/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/emotions/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/game-development/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/loneliness/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/mental-health/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/mindfulness/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/no-code/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/notion-ai/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/notion/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/overthinking/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/productivity/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/productivity/2/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/replika/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/self-care/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/students/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/study-tools/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/technology/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/unfinished-projects/</loc>
-</url>
-<url>
-<loc>https://voidnest.vercel.app/tags/writing/</loc>
-</url>
+  <!-- Trang chính -->
+  <url><loc>https://voidnest.vercel.app/</loc></url>
+  <url><loc>https://voidnest.vercel.app/about/</loc></url>
+  <url><loc>https://voidnest.vercel.app/privacy/</loc></url>
+  <url><loc>https://voidnest.vercel.app/archives/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/2/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/3/</loc></url>
+
+  <!-- Bài viết -->
+  <url><loc>https://voidnest.vercel.app/posts/ai-control/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-forcoding/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-learning-tools/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-overthink/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-planning/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-therapy/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/ai-tools-for-students/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/daily-routine/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/not-everything-needs-ai/</loc></url>
+  <url><loc>https://voidnest.vercel.app/posts/talktoai/</loc></url>
+
+  <!-- Tags -->
+  <url><loc>https://voidnest.vercel.app/tags/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/ai/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/ai/2/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/ai/3/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/balance/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/beginners/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/chatgpt/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/coding/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/companionship/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/creativity/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/daily-planning/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/daily-routine/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/education/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/emotions/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/game-development/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/loneliness/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/mental-health/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/mindfulness/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/no-code/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/notion-ai/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/notion/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/overthinking/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/productivity/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/productivity/2/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/replika/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/self-care/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/students/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/study-tools/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/technology/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/unfinished-projects/</loc></url>
+  <url><loc>https://voidnest.vercel.app/tags/writing/</loc></url>
+
+  <!-- Tìm kiếm -->
+  <url><loc>https://voidnest.vercel.app/search/</loc></url>
 </urlset>
