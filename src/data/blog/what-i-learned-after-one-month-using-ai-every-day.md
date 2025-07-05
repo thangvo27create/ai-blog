@@ -1,7 +1,7 @@
 ---
 title: "What I Learned After One Month Using AI Every Day"
 description: "I used AI tools daily for a month — here’s what surprised me, helped me, and where I still prefer doing things myself."
-pubDatetime: 2025-07-03
+pubDatetime: 2025-07-05
 tags: ["ai", "personal-growth", "productivity", "reflection"]
 featured: true
 ---
